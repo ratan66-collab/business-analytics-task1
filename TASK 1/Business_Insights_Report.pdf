@@ -1,0 +1,205 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+6 0 obj
+<< /Length 6305 >>
+stream
+0.08 0.22 0.38 rg 40 730 532 40 re f
+BT /F2 15 Tf 1 1 1 rg 52 745 Td (MAINCRAFTS TECHNOLOGY | INTERNSHIP PROJECT REPORT) Tj ET
+BT /F2 18 Tf 0.1 0.15 0.2 rg 40 696 Td (Data Analytics & Business Intelligence - Task 1) Tj ET
+BT /F3 10.5 Tf 0.3 0.35 0.4 rg 40 679 Td (Exploratory Data Analysis, SQL Extraction & Interactive Tableau Dashboard) Tj ET
+0.75 0.78 0.82 RG 1 w 40 668 m 572 668 l S
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 648 Td (1. Executive Summary & Objective) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 633 Td (This report presents an end-to-end business analysis conducted on the Superstore Sales dataset \(9,799 orders\)) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 620 Td (under Task 1 of the Maincrafts Technology Data Analytics Internship. The workflow covers multi-stage data cleaning,) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 607 Td (structured aggregation in Microsoft Excel and SQLite, visualization in Tableau, and key strategic recommendations.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 594 Td (The business achieved a cumulative sales volume of $2,261,255.41 across 4,922 distinct orders and 4 US regions.) Tj ET
+0.94 0.96 0.98 rg 40 515 125 48 re f
+0.75 0.82 0.9 RG 1 w 40 515 125 48 re S
+BT /F2 8 Tf 0.3 0.4 0.5 rg 50 549 Td (TOTAL SALES) Tj ET
+BT /F2 13 Tf 0.08 0.22 0.38 rg 50 533 Td ($2,261,255) Tj ET
+BT /F1 7.5 Tf 0.4 0.45 0.5 rg 50 521 Td (4 Geographic Regions) Tj ET
+0.94 0.96 0.98 rg 175.6 515 125 48 re f
+0.75 0.82 0.9 RG 1 w 175.6 515 125 48 re S
+BT /F2 8 Tf 0.3 0.4 0.5 rg 185.6 549 Td (TOTAL ORDERS) Tj ET
+BT /F2 13 Tf 0.08 0.22 0.38 rg 185.6 533 Td (4,922) Tj ET
+BT /F1 7.5 Tf 0.4 0.45 0.5 rg 185.6 521 Td (9,799 Line Items) Tj ET
+0.94 0.96 0.98 rg 311.2 515 125 48 re f
+0.75 0.82 0.9 RG 1 w 311.2 515 125 48 re S
+BT /F2 8 Tf 0.3 0.4 0.5 rg 321.2 549 Td (TOP CATEGORY) Tj ET
+BT /F2 13 Tf 0.08 0.22 0.38 rg 321.2 533 Td (Technology) Tj ET
+BT /F1 7.5 Tf 0.4 0.45 0.5 rg 321.2 521 Td ($827,456 \(36.6%\)) Tj ET
+0.94 0.96 0.98 rg 446.79999999999995 515 125 48 re f
+0.75 0.82 0.9 RG 1 w 446.79999999999995 515 125 48 re S
+BT /F2 8 Tf 0.3 0.4 0.5 rg 456.79999999999995 549 Td (TOP REGION) Tj ET
+BT /F2 13 Tf 0.08 0.22 0.38 rg 456.79999999999995 533 Td (West) Tj ET
+BT /F1 7.5 Tf 0.4 0.45 0.5 rg 456.79999999999995 521 Td ($710,220 \(31.4%\)) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 490 Td (2. Regional Sales Distribution) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 476 Td (The West and East regions dominate corporate sales, together contributing over 61% of total company revenue:) Tj ET
+0.88 0.92 0.96 rg 40 444 532 16 re f
+0.7 0.75 0.8 RG 1 w 40 444 532 16 re S
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 50 448 Td (Region) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 200 448 Td (Total Sales ($)) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 340 448 Td (Revenue Share (%)) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 460 448 Td (Strategic Rank) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 428 m 572 428 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 431 Td (West) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 200 431 Td ($710,219.68) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 340 431 Td (31.41%) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 460 431 Td (Rank 1 (Primary Hub)) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 413 m 572 413 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 416 Td (East) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 200 416 Td ($669,237.35) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 340 416 Td (29.59%) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 460 416 Td (Rank 2 (Key Market)) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 398 m 572 398 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 401 Td (Central) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 200 401 Td ($492,646.91) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 340 401 Td (21.79%) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 460 401 Td (Rank 3 (Growth Target)) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 383 m 572 383 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 386 Td (South) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 200 386 Td ($389,151.46) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.2 rg 340 386 Td (17.21%) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 460 386 Td (Rank 4 (Emerging Market)) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 356 Td (3. Product Category Breakdown) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 50 341 Td (-  Technology is the top revenue generator \($827,455.87, 36.6%\), fueled by enterprise hardware and copiers.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 50 327 Td (-  Furniture ranks second \($728,377.20, 32.2%\), driven by bulk corporate office chairs and tables.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 50 313 Td (-  Office Supplies \($705,422.33, 31.2%\) leads in order volume and transactional velocity across all segments.) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 291 Td (4. Top 5 Products by Sales Revenue) Tj ET
+0.88 0.92 0.96 rg 40 259 532 16 re f
+0.7 0.75 0.8 RG 1 w 40 259 532 16 re S
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 50 263 Td (Product Name) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 420 263 Td (Category) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 495 263 Td (Sales Revenue) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 243 m 572 243 l S
+BT /F1 8 Tf 0.2 0.2 0.2 rg 50 246 Td (Canon imageCLASS 2200 Advanced Copier) Tj ET
+BT /F1 8 Tf 0.3 0.3 0.3 rg 420 246 Td (Technology) Tj ET
+BT /F2 8 Tf 0.1 0.25 0.4 rg 495 246 Td ($61,599.82) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 229 m 572 229 l S
+BT /F1 8 Tf 0.2 0.2 0.2 rg 50 232 Td (Fellowes PB500 Electric Punch Plastic Comb Binding) Tj ET
+BT /F1 8 Tf 0.3 0.3 0.3 rg 420 232 Td (Office Supplies) Tj ET
+BT /F2 8 Tf 0.1 0.25 0.4 rg 495 232 Td ($27,453.38) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 215 m 572 215 l S
+BT /F1 8 Tf 0.2 0.2 0.2 rg 50 218 Td (Cisco TelePresence System EX90 Videoconferencing) Tj ET
+BT /F1 8 Tf 0.3 0.3 0.3 rg 420 218 Td (Technology) Tj ET
+BT /F2 8 Tf 0.1 0.25 0.4 rg 495 218 Td ($22,638.48) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 201 m 572 201 l S
+BT /F1 8 Tf 0.2 0.2 0.2 rg 50 204 Td (HON 5400 Series Task Chairs for Big and Tall) Tj ET
+BT /F1 8 Tf 0.3 0.3 0.3 rg 420 204 Td (Furniture) Tj ET
+BT /F2 8 Tf 0.1 0.25 0.4 rg 495 204 Td ($21,870.58) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 187 m 572 187 l S
+BT /F1 8 Tf 0.2 0.2 0.2 rg 50 190 Td (GBC DocuBind TL300 Electric Binding System) Tj ET
+BT /F1 8 Tf 0.3 0.3 0.3 rg 420 190 Td (Office Supplies) Tj ET
+BT /F2 8 Tf 0.1 0.25 0.4 rg 495 190 Td ($19,823.48) Tj ET
+0.75 0.78 0.82 RG 0.5 w 40 45 m 572 45 l S
+BT /F3 8 Tf 0.4 0.4 0.4 rg 40 33 Td (Maincrafts Technology - Data Analytics Task 1 | Business Insights Report) Tj ET
+BT /F3 8 Tf 0.4 0.4 0.4 rg 530 33 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 5887 >>
+stream
+0.08 0.22 0.38 rg 40 740 532 25 re f
+BT /F2 11 Tf 1 1 1 rg 52 748 Td (MAINCRAFTS TECHNOLOGY | BUSINESS INSIGHTS & STRATEGIC RECOMMENDATIONS) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 715 Td (5. Monthly Sales Trends & Seasonal Variations) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 699 Td (Analysis of 48 months of transactional data reveals pronounced recurring fourth-quarter \(Q4\) seasonality:) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 686 Td (- Peak Performance: November 2018 recorded the highest monthly sales in company history at $117,938.15,) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 673 Td (  followed by December 2017 \($95,739.12\) and September 2018 \($86,152.89\).) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 660 Td (- Holiday / Fiscal Year-End Surge: Q4 consistently generates ~35% of annual revenue due to holiday retail) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 647 Td (  demand and enterprise client annual budget clearance cycles.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 634 Td (- Trough Periods: January and February consistently exhibit the lowest monthly volumes \($18k-$28k range\)) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 621 Td (  due to post-holiday consumer fatigue and annual corporate procurement freezes.) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 598 Td (6. High-Value Customer Accounts) Tj ET
+0.88 0.92 0.96 rg 40 568 532 16 re f
+0.7 0.75 0.8 RG 1 w 40 568 532 16 re S
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 50 572 Td (Customer Name) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 230 572 Td (Primary Segment) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 380 572 Td (Total Spend ($)) Tj ET
+BT /F2 8.5 Tf 0.1 0.2 0.3 rg 480 572 Td (Client Tier) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 554 m 572 554 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 557 Td (Sean Miller) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 230 557 Td (Consumer / Tech) Tj ET
+BT /F2 8.5 Tf 0.1 0.25 0.4 rg 380 557 Td ($25,043.05) Tj ET
+BT /F1 8.5 Tf 0.25 0.4 0.25 rg 480 557 Td (Tier 1 Platinum) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 541 m 572 541 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 544 Td (Tamara Chand) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 230 544 Td (Corporate / High-Volume) Tj ET
+BT /F2 8.5 Tf 0.1 0.25 0.4 rg 380 544 Td ($19,052.22) Tj ET
+BT /F1 8.5 Tf 0.25 0.4 0.25 rg 480 544 Td (Tier 1 Platinum) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 528 m 572 528 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 531 Td (Raymond Buch) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 230 531 Td (Consumer / Office) Tj ET
+BT /F2 8.5 Tf 0.1 0.25 0.4 rg 380 531 Td ($15,117.34) Tj ET
+BT /F1 8.5 Tf 0.25 0.4 0.25 rg 480 531 Td (Tier 2 Gold) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 515 m 572 515 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 518 Td (Tom Ashbrook) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 230 518 Td (Home Office / Tech) Tj ET
+BT /F2 8.5 Tf 0.1 0.25 0.4 rg 380 518 Td ($14,595.62) Tj ET
+BT /F1 8.5 Tf 0.25 0.4 0.25 rg 480 518 Td (Tier 2 Gold) Tj ET
+0.8 0.85 0.9 RG 0.5 w 40 502 m 572 502 l S
+BT /F2 8.5 Tf 0.2 0.2 0.2 rg 50 505 Td (Adrian Barton) Tj ET
+BT /F1 8.5 Tf 0.3 0.3 0.3 rg 230 505 Td (Consumer) Tj ET
+BT /F2 8.5 Tf 0.1 0.25 0.4 rg 380 505 Td ($14,473.57) Tj ET
+BT /F1 8.5 Tf 0.25 0.4 0.25 rg 480 505 Td (Tier 2 Gold) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 477 Td (7. Pricing & Discount Impact Analysis) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 462 Td (- Scope Context: The dataset focuses on top-line revenue \($2.26M\) without explicit discount/profit rates.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 449 Td (  However, standard retail analytics principles indicate key margin patterns for Superstore management:) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 436 Td (- Volume vs Margin Tradeoff: High-value technology items \(e.g. Canon Copier at $61.6k\) are sensitive to unit pricing.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 423 Td (  Unregulated discounting on large orders often creates an illusion of revenue while eroding actual operating cash flow.) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 410 Td (- Office Supplies Resilience: Low-ticket replenishment supplies maintain consistent price inelasticity, suggesting that) Tj ET
+BT /F1 9 Tf 0.15 0.15 0.15 rg 40 397 Td (  discounting here yields minimal incremental demand and should be restricted to volume bundles.) Tj ET
+BT /F2 11.5 Tf 0.08 0.22 0.38 rg 40 374 Td (8. Strategic Recommendations for Management) Tj ET
+BT /F2 8.5 Tf 0.08 0.22 0.38 rg 45 356 Td (1. Regional Logistics Optimization) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 345 Td (Invest in automated fulfillment centers in the West and East hubs to reduce transit times and) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 335 Td (capture higher market share, while deploying targeted expansion campaigns in the Central region.) Tj ET
+BT /F2 8.5 Tf 0.08 0.22 0.38 rg 45 323 Td (2. Seasonality-Driven Supply Chain Planning) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 312 Td (Ramp up inventory buffers and temporary fulfillment staffing beginning in August/September to) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 302 Td (eliminate stock-outs during the November-December peak sales rush.) Tj ET
+BT /F2 8.5 Tf 0.08 0.22 0.38 rg 45 290 Td (3. Key Account Management Program) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 279 Td (Assign dedicated B2B account managers to the top 20 VIP accounts \(e.g., Sean Miller, Tamara Chand\)) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 269 Td (to offer negotiated enterprise contracts, priority servicing, and prevent client churn.) Tj ET
+BT /F2 8.5 Tf 0.08 0.22 0.38 rg 45 257 Td (4. Product Cross-Selling & Solution Bundling) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 246 Td (Pair high-ticket Technology hardware \(copiers, telepresence units\) with recurring Office Supplies) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 55 236 Td (agreements and ergonomic Furniture packages to elevate overall basket size.) Tj ET
+0.75 0.78 0.82 RG 0.5 w 40 45 m 572 45 l S
+BT /F3 8 Tf 0.4 0.4 0.4 rg 40 33 Td (Maincrafts Technology - Data Analytics Task 1 | Business Insights Report) Tj ET
+BT /F3 8 Tf 0.4 0.4 0.4 rg 530 33 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000344 00000 n 
+0000006701 00000 n 
+0000006847 00000 n 
+0000012786 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12932
+%%EOF
